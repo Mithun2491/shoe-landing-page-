@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import './App.css';
+import { UseState } from 'react';
+import './App.Css';
 import './Navigation'
 import Navigation from './Navigation';
 import HeroSection from './hero';
@@ -13,7 +13,7 @@ function App() {
       </div>
        
     </>
-  )
-}
+  );
+};
 
 export default App
