@@ -1,5 +1,5 @@
 
-import './App.Css';
+import './App.css';
 import './Navigation'
 import Navigation from './Navigation';
 import HeroSection from './hero';
